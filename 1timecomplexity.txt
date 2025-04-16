@@ -1,0 +1,11 @@
+Time Complexities from Best to Worst:
+
+Big-O Notation	Name / Type	Example Use Cases	Performance
+O(1)	Constant Time	Accessing an array element by index	🚀 Fastest
+O(log n)	Logarithmic Time	Binary Search	🔥 Super Fast
+O(n)	Linear Time	Looping once through an array	⚡ Fast
+O(n log n)	Linearithmic Time	Efficient sorting (Merge Sort, Timsort)	⚖️ Good
+O(n²)	Quadratic Time	Brute-force comparisons (nested loops)	🐢 Slow
+O(n³)	Cubic Time	Triple nested loops	🐌 Slower
+O(2ⁿ)	Exponential Time	Some recursive algorithms (e.g., brute-force subsets)	🚫 Very Slow
+O(n!)	Factorial Time	Brute-force permutations (like traveling salesman)	🧨 Extremely Slow
